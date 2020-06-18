@@ -17,3 +17,4 @@ https://www.youtube.com/watch?v=MMtCtGhbjmg
 
 Lastly, I have prepare a presentation video to recap the milestones of this project and to show how I achieve Milestone 5.
 
+https://drive.google.com/file/d/1ET1JvrAtV4qIXqnUWzPkx36dcz4d-kY3/view?usp=sharing
