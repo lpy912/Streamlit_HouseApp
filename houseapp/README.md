@@ -3,6 +3,7 @@ Milestone 5 of the House Price Prediction Project which involve deploying the ML
 
 After creating streamlit, the web app is deployed on Heroku. You can access the web app version in the link below.
 https://klangvalley-house.herokuapp.com/
+
 The reference video is posted below. It demonstrates how to deploy streamlit to Heroku with Git Bash in Windows.
 https://www.youtube.com/watch?v=mQ7rGcE766k
 
@@ -10,6 +11,7 @@ In order to make changes to the web app, we need to log in to Heroku account and
 
 Next step is to change the webapp into mobile app.
 In order to do that, we use MIT App Inventor which has a cool function to change the web app into apk file that you can download with your Android phone (I have only tried with Android and hence do not know whether it is compatible with IOS or not).
+
 The reference video is shown below.
 https://www.youtube.com/watch?v=MMtCtGhbjmg
 
