@@ -2,6 +2,7 @@
 Milestone 5 of the House Price Prediction Project which involve deploying the ML model in the form of web app and phone app
 
 For other milestone, please go to the github link below.
+
 https://github.com/lpy912/KlangValley-House-Price-Prediction
 
 After creating streamlit, the web app is deployed on Heroku. You can access the web app version in the link below.
