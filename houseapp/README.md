@@ -9,3 +9,9 @@ https://www.youtube.com/watch?v=mQ7rGcE766k
 In order to make changes to the web app, we need to log in to Heroku account and do a git push so that the codes are changed in Heroku master github instead. This is simply a copy of what we have push to the Heroku github.
 
 Next step is to change the webapp into mobile app.
+In order to do that, we use MIT App Inventor which has a cool function to change the web app into apk file that you can download with your Android phone (I have only tried with Android and hence do not know whether it is compatible with IOS or not).
+The reference video is shown below.
+https://www.youtube.com/watch?v=MMtCtGhbjmg
+
+Lastly, I have prepare a presentation video to recap the milestones of this project and to show how I achieve Milestone 5.
+
